@@ -1,0 +1,8 @@
+linker_summary.*
+src/*.o
+src/*.lst
+src/*.gb
+src/*.map
+
+obj/
+*sublime*
